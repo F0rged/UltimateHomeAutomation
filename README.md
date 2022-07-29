@@ -1,2 +1,11 @@
-# UltimateHomeAutomation
-The Ultimate Home Automation Setup
+# Ultimate Home Automation
+
+## Background
+
+## Obejectives
+
+## Index
+
+
+## Previous Setups
+
